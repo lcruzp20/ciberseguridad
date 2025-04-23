@@ -127,7 +127,7 @@ p{
     overflow: hidden;
     margin-top: 5px;
 }
-.capa video{
+.capa video video{
     object-fit: cover;
 }
 
